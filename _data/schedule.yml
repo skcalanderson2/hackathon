@@ -1,0 +1,24 @@
+general_schedule:
+  - date: "May 9, 2023"
+    day: Tuesday
+    timebegin: 12pm
+    timeend: 4pm
+    timezone: ET
+    events: 
+      - name: Working Lunch
+        #time:
+      - name: Team Creation and Introductions
+      - name: Coding Training 
+  - date: "May 10, 2023"
+    day: Wednesday
+    timebegin: 10am
+    timeend: 3:30pm
+    timezone: ET
+    events: 
+      - name: Breakfast
+      #time
+      - name: Machine Learning
+      - name: Hackathon Starts
+      - name: Working Lunch 
+      - name: Team Presentations 
+

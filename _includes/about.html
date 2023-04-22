@@ -1,0 +1,121 @@
+<div class="user-details">
+  
+  
+
+  <img src="{{ '/assets/imgs/CodeatMS-CC-headerlogo-2.png' | prepend: site.baseurl}} "  style="float: left;" width="55%" \>
+  <p style="text-align: justify; color: black;"> The Minority Serving - Cyberinfrastructure Consortium (MS-CC) is pleased to host its first Annual Meeting on May 10-11, 2023, and its first Student Hackathon for students attending historically Black colleges and universities (HBCUs) and Tribal colleges and universities (TCUs) on May 9-10, 2023. 
+    <br><br>
+
+    The MS-CC Hackathon is an opportunity for students who are currently enrolled at an HBCU or TCU to come together, learn new skills, and collaboratively apply those new skills to a particular problem in a defined amount of time. 
+  
+    <br><br>
+    Students will work with two instructors from the Texas Advanced Computing Center — Charlie Dey, Director of Training and Professional Development, and Je’aime Powel, Senior Systems Administrator — to learn about and apply the SIR Model to different problems. Students just need a laptop and an interest in learning a new skill set. Experience in coding and programming language is not required. 
+  
+    <br><br>
+    The MS-CC Annual Meeting is a gathering of your peers, practitioners, community-builders, advocates, and leaders from HBCUs and TCUs. Due to capacity restrictions, we are currently limiting registrations to MS-CC participants from HBCUs, TCUs, and those who are involved with the MS-CC Annual Meeting program. 
+    <br><br>
+    
+    We hope you’ll join us in Atlanta as we present how the MS-CC, in partnership with Internet2 and with funding support from the National Science Foundation, is promoting advanced cyberinfrastructure (IT for research) capabilities for our community, with a focus on supporting you and your campus in improving learning environments and achieving research goals.
+    <br><br>
+  </p>
+
+  {% if site.registration_link %}
+         
+          <a href="{{ site.registration_link }}" style="text-decoration: none; margin: 10px; padding: 20px; background-color: goldenrod; color: black; border: 3px solid black; "><i class="icon fa fa-pencil-square" aria-hidden="true"></i> <strong> Click Here to Register </strong> </a>
+        {% endif %}
+
+  {% if site.host_event_link %}
+         
+        <a href="{{ site.host_event_link }}" style="text-decoration: none; margin: 10px; padding: 20px; background-color: lightslategrey; color: #1a222c; border: 3px solid black; "><i class="icon fa fa-globe" aria-hidden="true"></i> <strong> {{ site.host_event_name }} </strong> </a>
+      {% endif %}
+
+</div>
+
+
+<div class="flex-container; user-details" style="display: flex;">
+
+<div style="width: 50%; text-align: left;">
+  {% if site.data.schedule %}
+  <h2>Schedule</h2>
+  
+    {% for day in site.data.schedule.general_schedule %}
+    <strong style="font-size:1.5vw;">{{day.day}}, {{ day.date}} {% if day.timebegin %} <br>{{ day.timebegin }} {% endif %} {% if day.timeend %}- {{ day.timeend }} {% endif %}{% if day.timezone %} {{ day.timezone }} {% endif %} </strong>
+    
+    <ul style="font-size: 1.3vw;"> 
+      {% for event in day.events %}
+        <li>
+          {% if event.time %}
+            {{ event.time }} - 
+          {% endif %}
+            {{ event.name }} 
+          </li>
+        {% endfor %}
+  </ul>
+    {% endfor %}
+
+  
+{% endif %}
+
+
+</div>
+<div>
+  {% if site.data.sponsors %}
+  <h2>Sponsors</h2>
+  
+  {% for sponsor in site.data.sponsors.sponsors %}
+  {% if sponsor.logo %}
+  <a href="{{ sponsor.url }}" target="_blank" ><img src="{{ sponsor.logo |  prepend: site.baseurl }}" width="20%"></a>
+  {% endif %}
+  {% endfor %}
+
+  <br>
+    {% for sponsor in site.data.sponsors.sponsors %}
+   
+   | <a href="{{ sponsor.url }}" target="_blank" style="text-decoration: none; color: black;"> <strong style="font-size:1.5vw;"> {{ sponsor.name }} 
+       
+      </strong></a>
+      {% endfor %}
+      |
+      
+
+      {% for sponsor in site.data.sponsors.sponsors %}
+      
+      {% if sponsor.grant %}
+  
+          {% for grant in sponsor.grant %} 
+          <br>
+           <em style="color: darkslategray; font-size:1.5vw;">
+              {% if grant.description %}
+              
+                {% if grant.logo %}
+                <img src="{{ grant.logo |  prepend: site.baseurl }}" height="50vw" style="vertical-align:middle">
+                {% endif %}
+              {{ grant.description }}
+              {% else %}
+              [Funded by: {{ grant.awardagency }}]</em></a> 
+              {% endif %}
+            
+          {% endfor %}
+      
+          
+        {% endif %}
+    
+ 
+    
+    {% endfor %}
+
+ 
+{% endif %}
+</div>
+</div>
+
+<div class="user-details">
+  
+
+  
+  
+
+</div>
+
+
+

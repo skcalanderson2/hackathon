@@ -1,0 +1,79 @@
+# Site settings
+# Inital Jekykl Theme "Minimal Resume"  by Mauricio Urraco - Ref: https://github.com/murraco/jekyll-theme-minimal-resume
+# Modified by Je'aime Powell 4/11/23  
+title: Code@MS-CC23
+description: This page will serve as the event site for the Code@MS-CC23 Student Hackathon held May 9th - 10th, 2023 in Atlanta, GA at the 2023 Minority Serving - Cyberinfrastructure Consortium (MS-CC) Annual Meeting.
+baseurl: "/codeatms-cc23" # the subpath of your site, e.g. /blog
+url: "https://hackhpc.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Code@MS-CC23
+user_description: Increasing understanding by harnessing the resources, skills and knowledge found in the HPC community.
+user_title: "May 9th - 10th, 2023 in Atlanta, GA"
+email: schack@hackhcp.org
+twitter_username: ccloudhack
+#instagram_username: schack@hackhcp.org
+#facebook_username: mauricio.urraco
+linkedin_username: https://www.linkedin.com/groups/8859728/
+github_username:  HackHPC
+youtube_page: https://www.youtube.com/@hackhpc2069
+registration_link: https://service5.internet2.edu/reg/events/MSCC-0523/registrations
+host_event_name: MS-CC Annual Meeting
+host_event_link: https://www.ms-cc.org/2023-annual-meeting
+# medium_username: lorem_ipsum
+# medium_url: lorem_ipsum.medium.com
+# gplus_username:  lorem_ipsum
+
+organizers: 
+  - name:           Amy Cannon
+    affiliation:    "Omnibond"
+    site:           http://www.omnibond.com/
+    linkedin:       https://www.linkedin.com/in/amy-cannon-46230b31/
+    avatar:         assets/images/amy-sq.png
+    bio:            "Amy Cannon has worked at Omnibond for 10 years, where her Business Development skills allow her to engage with customers and partners, teaching how HPC and Cloud help solve scientific problems. Outside of work she enjoys spending time in nature as well as helping others grow their HPC, HTC, AI, and Cloud Computing knowledge."
+    email:          amycannon@omnibond.com
+    twitter:        https://twitter.com/amy__cannon
+    github:         https://hackhpc.github.io/ 
+
+  - name:           Dr. Linda Hayden
+    affiliation:    "Science Gateways Community Institute"
+    site:           https://sciencegateways.org/
+    linkedin:       https://www.linkedin.com/in/linda-hayden-5a8b424/
+    avatar:         assets/images/linda.jpeg
+    bio:            "Dr. Linda Hayden holds a Ph.D. in Mathematics and Education. She leads workforce development activities for the NSF Science Gateways Community Institute (SGCI). In that position she works to train the next generation of gateway developers and users. Professor Hayden is an NSF Presidential Awardee for Excellence in Science, Mathematics and Engineering Mentoring."
+    email:          haydenl@mindspring.com
+    twitter:        https://twitter.com/lhaydenecsu
+    github:         https://hackhpc.github.io/ 
+
+  - name:           Alexander Nolte
+    affiliation:    "University of Tartu"
+    site:           https://alexandernolte.github.io/
+    linkedin:       https://www.linkedin.com/in/alexandernolte/
+    avatar:         assets/images/alex.jpeg
+    bio:            "Alex is an Associate Professor at the University of Tartu and an Adjunct Associate Professor at Carnegie Mellon University working in the are of human computer interaction. He is an avid hackathon enthusiast and has participated in, co-organized, served as a mentor and studied countless hackathons over the past years with no end in sight. Outside of work he fiddles with any gadget he can get his hand on, plays video games, cooks and does BBQ."
+    email:          alexander.nolte@ut.ee
+    twitter:        https://twitter.com/alexander_nolte/
+    github:         https://github.com/alexandernolte
+
+  - name:           Je'aime Powell
+    affiliation:    "Texas Advanced Computing Center"
+    site:           https://jeaimehp.github.io/
+    linkedin:       https://www.linkedin.com/in/jeaimehp/
+    avatar:         assets/images/jeaime-sq.png
+    bio:            "Je’aime is a Systems Administrator and a researcher at the Texas Advanced Computing Center. When not working on high-perfomance/cloud compute systems or mentoring students you can find him designing, creating, and/or deploying enviromental sensors."
+    email:          jpowell@tacc.utexas.edu
+    twitter:        https://twitter.com/jeaimehp
+    github:         https://github.com/jeaimehp 
+
+  - name:           Boyd Wilson
+    affiliation:    "Omnibond"
+    site:           http://www.omnibond.com/
+    linkedin:       https://www.linkedin.com/in/boydwilson/
+    avatar:         assets/images/boyd.png
+    bio:            "Boyd Wilson, CEO of Omnibond Systems, has extensive experience and leadership in the areas of software development, system administration, storage architectures and business models. Formerly, Boyd served as Software CTO and also Executive Director over computing operations at Clemson University and had research computing as part of his purview. He has participated in various academic grants, papers and workshops in the areas of parallel storage, cloud computing and computational infrastructure. Boyd’s current focus lies in 4 areas: first- computer vision, ai, and real-time traffic analytics with TrafficVision; second- high-performance computing and storage with CloudyCluster and OrangeFS; third- identity and security management; fourth- wake surfing and riding a boosted board around cities while traveling."
+    email:          boyd@omnibond.com
+    twitter:        https://twitter.com/boydwilson/
+    github:         https://github.com/omnibond/
+
+exclude: ['package.json', 'src', 'node_modules', 'vendor']
+
