@@ -37,7 +37,7 @@ general_schedule:
         links:
           - title: Slides
             #icon
-            url: "assets/Slide_Decks/day_1/MS-CC-Day1_Jane.pdf"
+            url: "assets/Slide_Decks/day_1/MS-CC-Day_1.pdf"
           - title: Code
             #icon
             url: "assets/Slide_Decks/day_1/SIR-Model-2022.ipynb"
