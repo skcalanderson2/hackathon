@@ -33,6 +33,11 @@
           {{ event.time }} - 
         {% endif %}
           {{ event.name }} {% if event.type %} Type: <em style="background-color: lightgray;">{{ event.type }}</em>  {% endif %}
+          {% if event.description %}
+             <p>
+               {{ event.description }}
+             </p>
+          {% endif %}
           {% if event.links %}
               <ul>
             {% for link in event.links %}
