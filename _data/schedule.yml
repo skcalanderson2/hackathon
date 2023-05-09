@@ -31,7 +31,7 @@ general_schedule:
             url: "assets/Slide_Decks/day_1/MS-CC-Day_1.pdf"
           - title: Code
             #icon
-            url: "assets/Slide_Decks/day_1/Task1.ipynb"
+            url: "https://github.com/HackHPC/codeatms-cc23/blob/main/assets/Slide_Decks/day_1/Task1.ipynb"
       - name: "Poor Jane knows Joe"
         type: Code
         links:
@@ -40,15 +40,15 @@ general_schedule:
             url: "assets/Slide_Decks/day_1/MS-CC-Day_1.pdf"
           - title: Code
             #icon
-            url: "assets/Slide_Decks/day_1/SIR-Model-2022.ipynb"
+            url: "https://github.com/HackHPC/codeatms-cc23/blob/main/assets/Slide_Decks/day_1/SIR-Model-2022.ipynb"
 
 
 
   
   - date: "May 10, 2023"
     day: Wednesday
-    timebegin: 10am
-    timeend: 3:30pm
+    timebegin: 9am
+    timeend: 4:00pm
     timezone: ET
     location: Westin 6th Floor - Chastain F Room 
     address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
@@ -57,7 +57,7 @@ general_schedule:
     events: 
       - name: Breakfast
       #time
-      - name: Machine Learning
+      #- name: Machine Learning
       - name: Hackathon Starts
       - name: Working Lunch 
       - name: Team Presentations 
