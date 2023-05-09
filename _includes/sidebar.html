@@ -1,0 +1,57 @@
+<div class="sidebar">  
+   
+    <div class="sidebar-section">
+        <h5><span>Supporters</span></h5>
+        {% if site.data.sponsors %}
+        <div style="text-align: center;">
+        {% for sponsor in site.data.sponsors.sponsors %}
+        {% if sponsor.logo %}
+        <a href="{{ sponsor.url }}" target="_blank" ><img src="{{ sponsor.logo |  prepend: site.baseurl }}" width="40%" style="display: inline-block;" ></a>
+        
+        {% endif %}
+        {% endfor %}
+        
+        <br><br>
+          {% for sponsor in site.data.sponsors.sponsors %}
+         
+          <a href="{{ sponsor.url }}" target="_blank" style="text-decoration: none; color: black;"> <strong style="font-size:1vw;"> {{ sponsor.name }} 
+             
+            </strong></a>
+            {% if forloop.last == false %}
+            |
+
+            {% endif %}
+            {% endfor %}
+        </div>
+            
+      
+            {% for sponsor in site.data.sponsors.sponsors %}
+            
+            {% if sponsor.grant %}
+        
+                {% for grant in sponsor.grant %} 
+                <br>
+                 <em style="color: darkslategray; font-size:1.5vw;">
+                    {% if grant.description %}
+                    
+                      {% if grant.logo %}
+                      <img src="{{ grant.logo |  prepend: site.baseurl }}" height="50vw" style="vertical-align:middle">
+                      {% endif %}
+                    {{ grant.description }}
+                    {% else %}
+                    [Funded by: {{ grant.awardagency }}]</em></a> 
+                    {% endif %}
+                  
+                {% endfor %}
+            
+                
+              {% endif %}
+          
+       
+          
+          {% endfor %}
+      
+       
+      {% endif %}
+    </div>
+</div>

@@ -1,0 +1,58 @@
+{% if site.data.schedule %}
+
+
+  {% for day in site.data.schedule.general_schedule %}
+  <p>
+  <strong style="font-size:1.5vw;">{{day.day}}, {{ day.date}} 
+    {% if day.timebegin %} {{ day.timebegin }} {% endif %} 
+    {% if day.timeend %}- {{ day.timeend }} {% endif %}
+    {% if day.timezone %} {{ day.timezone }} {% endif %} 
+ </strong>
+   
+        {% if day.location %}
+        <br>
+        <em style="font-size:1.5vw;">  <a href="{{ site.baseurl}}/{{ day.locationmap }}"> {{ day.location }}  </a></em>
+        {% endif %}
+      
+        {% if day.locationmap %}
+            <a href="{{ site.baseurl}}/{{ day.locationmap }}" style="font-size:1.5vw;">[6th Floor Map]</a>
+        {% endif %}
+
+
+        {% if day.googlemap %}
+        <a href="{{ day.googlemap }}" style="font-size:1.5vw;"> [Directions] </a>
+        {% endif %}
+
+
+    </p>
+  
+  <ul style="font-size: 1.3vw;"> 
+    {% for event in day.events %}
+      <li>
+        {% if event.time %}
+          {{ event.time }} - 
+        {% endif %}
+          {{ event.name }} {% if event.type %} Type: <em style="background-color: lightgray;">{{ event.type }}</em>  {% endif %}
+          {% if event.links %}
+              <ul>
+            {% for link in event.links %}
+                  <li>
+                    {% if link.url contains '://' -%}
+                      [ <a href="{{ link.url }}"> {{ link.title }} </a> ]
+                    {%- else -%}
+                      [ <a href="{{ link.url | relative_url }}"> {{ link.title }} </a> ]
+                    {% endif %}
+                  </li>
+
+            {% endfor %}
+              </ul>
+          {% endif %}
+
+
+        </li>
+      {% endfor %}
+</ul>
+  {% endfor %}
+
+
+{% endif %}

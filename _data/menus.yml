@@ -1,0 +1,42 @@
+# Top Menu
+topmenu:
+
+- title: Home
+  url: ""
+
+- title: Schedule
+  url: "schedule/"
+
+- title: About
+  url: "about/"
+
+#- title: Contact
+ # url: "contact/"
+
+#- title: Teams
+#  url: "teams/"
+
+- title: Organizers
+  url: "organizers/"
+
+- title: Resources
+  url: "resources/"
+
+- title: MS-CC Hackathon
+  url: https://www.ms-cc.org/2023-annual-meeting#h.h3rnrkpqy63d
+  class: "ml-2 btn btn-dark text-white px-3"
+  external: true
+
+# Footer Menu
+footermenu:
+
+- title: Home
+  url: ""
+
+- title: Schedule
+  url: "schedule/"
+
+- title: MS-CC Hackathon
+  url: https://www.ms-cc.org/2023-annual-meeting#h.h3rnrkpqy63d
+  class: "ml-2 btn btn-dark text-white px-3"
+  external: true

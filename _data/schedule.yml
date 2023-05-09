@@ -4,16 +4,56 @@ general_schedule:
     timebegin: 12pm
     timeend: 4pm
     timezone: ET
+    location: Westin 6th Floor - Chastain F Room 
+    address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+    googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+    locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
     events: 
       - name: Working Lunch
         #time:
       - name: Team Creation and Introductions
-      - name: Coding Training 
+        type: Team Work
+        links:
+          - title: Docs Link
+            #icon:
+            url: https://docs.google.com/presentation/d/1PGoHS8SiKlQsqeCvMc-MG1NxHBQZVantc3kHmFLJ_f0/edit?usp=sharing
+      - name: Computational Thinking
+        type: Presentation
+        links:
+          - title: Slides
+            #icon: 
+            url: "assets/Slide_Decks/day_1/Computational-Thinking.pdf"
+      - name: "Hi I'm Joe"
+        type: Code
+        links:
+          - title: Slides
+            #icon: 
+            url: "assets/Slide_Decks/day_1/MS-CC-Day_1.pdf"
+          - title: Code
+            #icon
+            url: "assets/Slide_Decks/day_1/Task1.ipynb"
+      - name: "Poor Jane knows Joe"
+        type: Code
+        links:
+          - title: Slides
+            #icon
+            url: "assets/Slide_Decks/day_1/MS-CC-Day1_Jane.pdf"
+          - title: Code
+            #icon
+            url: "assets/Slide_Decks/day_1/SIR-Model-2022.ipynb"
+
+
+
+  
   - date: "May 10, 2023"
     day: Wednesday
     timebegin: 10am
     timeend: 3:30pm
     timezone: ET
+    location: Westin 6th Floor - Chastain F Room 
+    address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+    googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+    locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
     events: 
       - name: Breakfast
       #time
