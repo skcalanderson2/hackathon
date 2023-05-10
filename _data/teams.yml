@@ -217,9 +217,9 @@ teams:
           url: assets/teams/the_tech_titans/the_tech_titans_intro.pdf
           icon: "far fa-file-pdf"
           iconcolor: "black"
-        - name: Theme Song - Team Titans
+        - name: Theme Song - Remember The Name - Fort Minor
           tag: themesong
-          url: https://www.youtube.com/watch?v=yL75mtNZ6PA
+          url: https://www.youtube.com/watch?v=VDvr08sCPOc
           icon: "fab fa-youtube"
           iconcolor: "#ff0c05"  
     images:
