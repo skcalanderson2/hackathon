@@ -9,64 +9,23 @@
   <br>
   <h1 id="sessions" style="color:#013366;"><i class="fas fa-chalkboard-teacher" style="font-size: x-large;"></i> Sessions:</h1>
   <ol class="presentations-list">
-    {% for _ in site.data.schedule %}
-      {% assign presentation = _.general_schedule %}
-      <li>
-        
-        <h2 id="{{ presentation.title }}">{{ presentation.title }} </h2>
-        {%- if presentation.event %}
-        at <em class="event">{{ presentation.event }}</em> 
-        {% endif %}
-        <em class="date">({{ presentation.date }} 
-          {%- if presentation.duration %}
-            - {{ presentation.duration }}{% endif %})</em>
-            {%- if presentation.comment %}
-          <p class="comment">{{ presentation.comment | markdownify }}</p>
-          {% endif %}
-        <div class="links">
-          {%- if presentation.icsfile %}
-            [<a href="{{ presentation.icsfile | relative_url }}" class="btn btn-sm z-depth-0" role="button"><i class="fas fa-plus" style="color: black;"></i> Add to Calendar</a>]
-          {%- endif %}
+    {% for _ in site.data.schedule.general_schedule %}
          
-          {%- if presentation.slides %}
-            {% if presentation.slides contains '://' -%}
-              [<a href="{{ presentation.slides }}" class="btn btn-sm z-depth-0" role="button" title="Slides"> Session Slides</a>]
-            {%- else -%}
-              [<a href="{{ presentation.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" title="Slides"><i class="far fa-file-pdf" style="color: black;"></i> Session Slides</a>]
-            {%- endif %}
-          {%- endif %}
-          {%- if presentation.recording %}
-            [<a href="{{ presentation.recording }}" class="btn btn-sm z-depth-0" role="button">Recording</a>]
-          {%- endif %}
-          {%- if presentation.hub %}
-            [<a href="{{ presentation.hub | relative_url }}" class="btn btn-sm z-depth-0" role="button">All Information</a>]
-          {%- endif %}
-          {%- if presentation.links %}
-    
-            {% for link in presentation.links %}
-                {% if link.url contains '://' -%}
-                  [<a href="{{ link.url }}" class="btn btn-sm z-depth-0" role="button"> 
-                {%- else -%}
-                  [<a href="{{ link.url | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button"> 
-                {%- endif %}
-
-                  {% if link.icon %}
-                  <i class="{{ link.icon }}" 
-                    {% if link.iconcolor %}
-                    style="color: {{ link.iconcolor }}"
-                    {% endif %}
-                    ></i> 
-                  {% endif %}
-                  {{ link.name }}</a>]
-
-            {% endfor %}
-          {%- endif %}
-          
-       
-          
-       
-        </div>
+        {% for event in _.events %}
+        {% if event.links %}
+      <li>
+        [{{ _.date}} ] <strong>{{ event.name }}</strong>
+        <ul>
+        {% for link in event.links %}
+          <li>
+              <a href="{{ link.url }}">{{ link.title }}</a>
+          </li>
+        {% endfor %}
+        {% endif %}
+        </ul>
       </li>
+      
+    {% endfor %}
     {% endfor %}
   </ol>
 

@@ -7,14 +7,20 @@
   <td style="padding-left: 10px;"></td>
   
 <td style="vertical-align: top;">
-<h2>{{ organizer.name }} </h2>
+<h2> {{ organizer.name }} </h2>
 
 {% if organizer.avatar %}
-<img src="{{ site.baseurl }}/{{ organizer.avatar }}" width="200px">
+<img src="{{ site.baseurl }}/{{ organizer.avatar }}" width="200px" ALIGN="left">
 {% endif %}
 <a href="{{ organizer.site }}">{{ organizer.affiliation}}</a>
  <strong>{{ organizer.aff }}</strong>  <em>{{ organizer.location }}</em> 
 <br>
+<a href="mailto:{{ organizer.email }}">[E-mail]</a>
+{% if organizer.linkedin %}
+  <a href="{{ organizer.linkedin }}">[LinkedIn]</a>
+  
+{% endif %}
+<br><br>
 {{ organizer.bio }}
 <br>
 

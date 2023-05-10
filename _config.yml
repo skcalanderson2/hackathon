@@ -14,7 +14,7 @@ url: "https://hackhpc.github.io" # the base hostname & protocol for your site e.
 #baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
 
-logo: 'assets/imgs/ms-cccolorssm-text.png'
+logo: assets/imgs/logos/MS-CC_Logo.png #'assets/imgs/ms-cccolorssm-text.png'
 favicon: 'assets/imgs/ms-cccolorssm.ico'
 headerimage: 'assets/imgs/CodeatMS-CC-header-trs.png'
 headerbackground: 'assets/imgs/atlskyline-alt.jpg' #This is linked to the hero_img class in theme.scss
@@ -75,8 +75,8 @@ organizers:
     affiliation:    "Minority Serving - Cyberinfrastructure Consortium (MS-CC)"
     site:           https://www.ms-cc.org
     #linkedin:       https://www.linkedin.com/in/amy-cannon-46230b31/
-    #avatar:         assets/imgs/organizers/amy-sq.png
-    #bio:            "Amy Cannon has worked at Omnibond for 10 years, where her Business Development skills allow her to engage with customers and partners, teaching how HPC and Cloud help solve scientific problems. Outside of work she enjoys spending time in nature as well as helping others grow their HPC, HTC, AI, and Cloud Computing knowledge."
+    avatar:         assets/imgs/organizers/Teni-Agbesanwa.jpeg
+    bio:            "Teni supports the MS-CC’s program implementation through relationship building, marketing, and communications to increase engagement efforts around advancing cyberinfrastructure across historically Black colleges and universities (HBCUs) and tribal colleges and universities (TCUs). Before this role, Teni had experience working in higher education and k-12 schools."
     email:          tagbesanwa@internet2.edu
     #twitter:        https://twitter.com/amy__cannon
     #github: 
@@ -91,6 +91,18 @@ organizers:
     #twitter:        https://twitter.com/amy__cannon
     #github: 
   
+  - name:           Charlie Dey
+    affiliation:    "Texas Advanced Computing Center"
+    site:           https://www.tacc.utexas.edu/about/directory/charlie-dey
+    linkedin:       https://www.linkedin.com/in/charlie-dey-0031317a/
+    avatar:         assets/imgs/organizers/charlie-dey.jpeg
+    bio:            "Charlie Dey(he/him) is the Director of Training and Professional Development with the User Services group at the Texas Advanced Computing Center(TACC) with a background in web development and scientific computing.  Charlie’s responsibilities at TACC include organizing, developing content, and building curriculums for TACC’s academic course selection taught in conjunction with several departments at the University of Texas at Austin, as well as for TACC’s professional development and educational training. Prior to joining TACC, he worked as a Senior Application Developer for the Carle Foundation Hospital, and as a computer science instructor at Parkland College in Champaign, IL.  He was also a member of a specialized application development team at the University of Illinois and has been a contracted research consultant for NASA Ames Research Center, studying computational immunology and bioinformatics. Charlie holds a Bachelor’s Degree concentrating in Computer Science and Biology from Eastern Illinois University, and certifications in 3D programing and visualization. He is currently finishing up a Master’s of Science in Cybersecurity."
+    email:          charlie@tacc.utexas.edu
+    twitter:        https://twitter.com/DeyCharlie
+    github:         https://github.com/ubik10
+
+
+   
   - name:           Amy Cannon
     affiliation:    "Omnibond"
     site:           http://www.omnibond.com/
