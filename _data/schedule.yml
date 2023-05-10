@@ -57,7 +57,7 @@ general_schedule:
         links:
           - title: Slides
             #icon
-            url: "assets/Slide_Decks/day_1/MS-CC-Day_1.pdf"
+            url: "assets/Slide_Decks/day_1/CODEatMS-CC_FullDeck.pdf"
           - title: Code
             #icon
             url: "https://github.com/HackHPC/codeatms-cc23/blob/main/assets/Slide_Decks/day_1/SIR-Model-2022.ipynb"
