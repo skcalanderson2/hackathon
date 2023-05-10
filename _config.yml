@@ -71,10 +71,10 @@ authors:
   
 organizers: 
   
-  - name:           Teniola Agbesanwa
+  - name:           Teni Agbesanwa
     affiliation:    "Minority Serving - Cyberinfrastructure Consortium (MS-CC)"
     site:           https://www.ms-cc.org
-    #linkedin:       https://www.linkedin.com/in/amy-cannon-46230b31/
+    linkedin:       https://www.linkedin.com/in/teni-agbesanwa-436081162/
     avatar:         assets/imgs/organizers/Teni-Agbesanwa.jpeg
     bio:            "Teni supports the MS-CC’s program implementation through relationship building, marketing, and communications to increase engagement efforts around advancing cyberinfrastructure across historically Black colleges and universities (HBCUs) and tribal colleges and universities (TCUs). Before this role, Teni had experience working in higher education and k-12 schools."
     email:          tagbesanwa@internet2.edu
@@ -85,8 +85,8 @@ organizers:
     affiliation:    "Minority Serving - Cyberinfrastructure Consortium (MS-CC)"
     site:           https://www.ms-cc.org
     #linkedin:       https://www.linkedin.com/in/amy-cannon-46230b31/
-    #avatar:         assets/imgs/organizers/amy-sq.png
-    #bio:            "Amy Cannon has worked at Omnibond for 10 years, where her Business Development skills allow her to engage with customers and partners, teaching how HPC and Cloud help solve scientific problems. Outside of work she enjoys spending time in nature as well as helping others grow their HPC, HTC, AI, and Cloud Computing knowledge."
+    avatar:         assets/imgs/organizers/russell_h.jpg
+    bio:            "Russell Hofmann is providing dedicated support to the MS-CC’s PoCG program recipients, facilitating CI adoption by faculty and students across these and other campuses, contributing to content within MS-CC’s programming, and contributing to professional development activities for students and faculty. Russell previously worked at the American Indian Higher Education Consortium (AIHEC) as a Research & Education facilitator assisting faculty with their research and education activities by addressing cyberinfrastructure needs. When not working, you can find Russell exploring the great outdoors with his dog Amos, enjoying jogs, visits to farmer’s markets and parks."
     email:          rhofmann@internet2.edu
     #twitter:        https://twitter.com/amy__cannon
     #github: 
