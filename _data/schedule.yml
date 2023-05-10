@@ -61,7 +61,7 @@ general_schedule:
           - title: Code
             #icon
             url: "https://github.com/HackHPC/codeatms-cc23/blob/main/assets/Slide_Decks/day_1/SIR-Model-2022.ipynb"
-          - title: Hand Coded Joe -- That Jerk
+          - title: Hand Coded Joe (That Jerk)
             #icon
             url: "https://github.com/HackHPC/codeatms-cc23/blob/main/assets/Slide_Decks/day_1/joe.ipynb"
       - name: Person/Population/Community Objects
