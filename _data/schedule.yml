@@ -14,6 +14,9 @@ general_schedule:
       - name: Team Creation and Introductions
         type: Team Work
         links:
+          - title: Teams Slide Deck
+            #icon:
+            url: "assets/Slide_Decks/day_1/MS-CC Groups.pdf"
           - title: Docs Link
             #icon:
             url: https://docs.google.com/presentation/d/1PGoHS8SiKlQsqeCvMc-MG1NxHBQZVantc3kHmFLJ_f0/edit?usp=sharing
