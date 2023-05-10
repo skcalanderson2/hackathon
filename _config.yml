@@ -14,7 +14,7 @@ url: "https://hackhpc.github.io" # the base hostname & protocol for your site e.
 #baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
 
-logo: assets/imgs/logos/MS-CC_Logo.png #'assets/imgs/ms-cccolorssm-text.png'
+logo: assets/imgs/logos/MS-CC_Logo-100px.png #'assets/imgs/ms-cccolorssm-text.png'
 favicon: 'assets/imgs/ms-cccolorssm.ico'
 headerimage: 'assets/imgs/CodeatMS-CC-header-trs.png'
 headerbackground: 'assets/imgs/atlskyline-alt.jpg' #This is linked to the hero_img class in theme.scss
