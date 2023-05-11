@@ -31,7 +31,16 @@ teams:
           tag: themesong
           url: https://www.youtube.com/watch?v=QopN26wi708
           icon: "fab fa-youtube"
-          iconcolor: "#ff0c05"  
+          iconcolor: "#ff0c05"
+        - name: Github Repo
+          url: https://github.com/mayaajike/MS_CC-2023-Hack 
+          icon: "fab fa-github"
+          color: black
+          tag: github 
+        - name: Final Presentation
+          url: assets/teams/cyborgs/CYBORGS.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black"  
     images:
         - name: Team Introduction
           imagelink: assets/teams/cyborgs/cyborgs_intro-350px.png
