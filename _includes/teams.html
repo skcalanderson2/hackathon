@@ -1,12 +1,19 @@
 
-   
+        
+
+     Jump To: |
+     {% for team in site.data.teams.teams %}
+       <strong><a href="#{{ team.teamname }}" target="_self"> {{ team.emojicode }} {{ team.teamname }}</a></strong> | 
+     {% endfor %}
+     <br>
+    
     <table>
-      
+    
     {% for team in site.data.teams.teams %}
   
     <tr style="border-bottom: 2px solid darkgrey;">
       <td style="vertical-align: top;">
-        <h1 style="background-color:#e4bd19;">{{ team.teamname }}</h1>
+        <h1 id="{{ team.teamname }}" style="background-color:#e4bd19;">{{ team.teamname }}</h1>
         <img src="{{ team.image | relative_url }}" width="300px">
 
         <br>
