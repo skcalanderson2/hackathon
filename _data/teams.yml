@@ -130,12 +130,12 @@ teams:
     #awards:
     #    - name: "Viewer's Choice Award"
     members:
-      names: [Aaliyah Lockett, Tyler Mills, Jadrien Huell, Javian Huell, Terrel Brown]
+      names: [Aayush Bhatta, Henry Alumona, Pratyush Khanal, Rejin Nepal]
       role: Member
-      affiliation: [Albany State University, Albany State University, Claflin University, Claflin University, FAMU (Florida Agricultural and Mechanical University)]
+      affiliation: [Fisk University, Fisk University, Fisk University, Fisk University]
       #affinitals: SFU
       #url: https://www.sfu.ca/
-      major: [Computer Science, Computer Science, Computer Engineering, Computer Engineering, Computer Science]
+      major: [Computer Science, Computer Science, Computer Science, Computer Science]
     links:
         - name: Team Introduction
           url: assets/teams/the_nwa/the_nwa_intro.pdf
@@ -145,7 +145,17 @@ teams:
           tag: themesong
           url: https://www.youtube.com/watch?v=yL75mtNZ6PA
           icon: "fab fa-youtube"
-          iconcolor: "#ff0c05"  
+          iconcolor: "#ff0c05"
+        - name: Github Repo
+          url: https://github.com/Aayush000/MS-CC 
+          icon: "fab fa-github"
+          color: black
+          tag: github 
+        - name: Final Presentation
+          url: assets/teams/team_harp/Team_HARP.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black"
+        
     images:
         - name: Team Introduction
           imagelink: assets/teams/the_nwa/the_nwa_intro-350px.png 
