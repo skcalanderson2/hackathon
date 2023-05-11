@@ -250,6 +250,18 @@ teams:
           url: https://www.youtube.com/watch?v=VDvr08sCPOc
           icon: "fab fa-youtube"
           iconcolor: "#ff0c05"  
+        - name: Github Repo
+          url: https://github.com/RicardoBarnes/project
+          icon: "fab fa-github"
+          color: black
+          tag: github 
+        - name: Final Presentation
+          url: assets/teams/the_tech_titans/ttFinalPResentation.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black" 
+
+
+
     images:
         - name: Team Introduction
           imagelink: assets/teams/the_tech_titans/the_tech_titans_intro-350px.png
