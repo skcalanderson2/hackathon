@@ -117,6 +117,15 @@ teams:
           url: https://www.youtube.com/watch?v=rNM5HW13_O8
           icon: "fab fa-youtube"
           iconcolor: "#ff0c05"  
+        - name: Github Repo
+          url: https://github.com/RaquelS04/VaccineEffectiveness
+          icon: "fab fa-github"
+          color: black
+          tag: github 
+        #- name: Final Presentation
+        #  url: assets/teams/cyborgs/CYBORGS.pdf
+        #  icon: "far fa-file-pdf"
+        #  iconcolor: "black"  
     images:
         - name: Team Introduction
           imagelink: assets/teams/team_drt_queens/team_drt_queens_intro-350px.png
