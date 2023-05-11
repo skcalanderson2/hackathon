@@ -11,6 +11,7 @@
         <br>
         {% for image in team.images %}
         <br>
+        {{ image.name }}
         {% if image.url %}
         <a href="{{ image.url | relative_url }}"><img src="{{ image.imagelink | relative_url }}" width="300px"></a>
         {% else %}

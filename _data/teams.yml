@@ -45,6 +45,9 @@ teams:
         - name: Team Introduction
           imagelink: assets/teams/cyborgs/cyborgs_intro-350px.png
           url: assets/teams/cyborgs/cyborgs_intro.pdf
+        #- name: Final Presentation
+        #  imagelink: assets/teams/cyborgs/cyborgs_intro-350px.png
+        #  url: assets/teams/cyborgs/cyborgs_intro.pdf
 
   - teamname: House of Py
     #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -92,6 +95,9 @@ teams:
         - name: Team Introduction
           imagelink: assets/teams/house_of_py/house_of_py_intro-350px.png
           url: assets/teams/house_of_py/house_of_py_intro.pdf
+        #- name: Final Presentation
+        #  imagelink: assets/teams/cyborgs/cyborgs_intro-350px.png
+        #  url: assets/teams/cyborgs/cyborgs_intro.pdf
 
   - teamname: Team DRT Queens
     #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -139,6 +145,9 @@ teams:
         - name: Team Introduction
           imagelink: assets/teams/team_drt_queens/team_drt_queens_intro-350px.png
           url: assets/teams/team_drt_queens/team_drt_queens_intro.pdf
+        #- name: Final Presentation
+        #  imagelink: assets/teams/cyborgs/cyborgs_intro-350px.png
+        #  url: assets/teams/cyborgs/cyborgs_intro.pdf
 
   - teamname: Team HARP
     #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -185,8 +194,11 @@ teams:
         
     images:
         - name: Team Introduction
-          imagelink: assets/teams/the_nwa/the_nwa_intro-350px.png 
-          url: assets/teams/the_nwa/the_nwa_intro.pdf
+          imagelink: assets/teams/team_harp/team_harp_intro-350px.png
+          url: assets/teams/team_harp/team_harp_intro.pdf
+        - name: Final Presentation
+          imagelink: assets/teams/team_harp/Team_HARP-img.png
+          url: assets/teams/team_harp/Team_HARP.pdf
   
   - teamname: The NWA (Nerds With Attitudes)
     #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -230,13 +242,13 @@ teams:
           url: assets/teams/the_nwa/NWA_FianlPresentation.pdf
           icon: "far fa-file-pdf"
           iconcolor: "black" 
-
-
-          
     images:
         - name: Team Introduction
           imagelink: assets/teams/the_nwa/the_nwa_intro-350px.png
           url: assets/teams/the_nwa/the_nwa_intro.pdf
+        - name: Final Presentation
+          imagelink: assets/teams/the_nwa/NWA_FianlPresentation-img.png
+          url: assets/teams/the_nwa/NWA_FianlPresentation.pdf
 
   - teamname: The Tech Titans
     #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -284,4 +296,7 @@ teams:
         - name: Team Introduction
           imagelink: assets/teams/the_tech_titans/the_tech_titans_intro-350px.png
           url: assets/teams/the_tech_titans/the_tech_titans_intro.pdf
+        - name: Final Presentation
+          imagelink: assets/teams/the_tech_titans/ttFinalPResentation-img.png
+          url: assets/teams/the_tech_titans/ttFinalPResentation.pdf
         
