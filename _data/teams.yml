@@ -3,7 +3,7 @@ teams:
     #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     #url:  # Full URL
-    image: assets/teams/cyborgs/cyborgs_intro-350px.png # assets/project/
+    image: assets/teams/cyborgs/Cyborgs.jpg # assets/project/
     #date: 03/2021 &ndash; Project Teams
     #title: COMING SOON!
     #summary: Data De-Sensitizer/Anonymizer
@@ -50,7 +50,7 @@ teams:
     #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     #url:  # Full URL
-    image: assets/teams/house_of_py/house_of_py_intro-350px.png # assets/project/
+    image: assets/teams/house_of_py/House_of_Py.png # assets/project/
     #date: 03/2021 &ndash; Project Teams
     #title: COMING SOON!
     #summary: Data De-Sensitizer/Anonymizer
@@ -88,7 +88,7 @@ teams:
     #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     #url:  # Full URL
-    image: assets/teams/team_drt_queens/team_drt_queens_intro-350px.png # assets/project/
+    image: assets/teams/team_drt_queens/Team_DRT_Queens.png # assets/project/
     #date: 03/2021 &ndash; Project Teams
     #title: COMING SOON!
     #summary: Data De-Sensitizer/Anonymizer
@@ -135,7 +135,7 @@ teams:
     #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     #url:  # Full URL
-    image: assets/teams/the_nwa/the_nwa_intro-350px.png # assets/project/
+    image: assets/teams/team_harp/Team_HARP.jpg # assets/project/
     #date: 03/2021 &ndash; Project Teams
     #title: COMING SOON!
     #summary: Data De-Sensitizer/Anonymizer
@@ -183,7 +183,7 @@ teams:
     #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     #url:  # Full URL
-    image: assets/teams/the_nwa/the_nwa_intro-350px.png # assets/project/
+    image: assets/teams/the_nwa/The_NWA.png # assets/project/
     #date: 03/2021 &ndash; Project Teams
     #title: COMING SOON!
     #summary: Data De-Sensitizer/Anonymizer
@@ -221,7 +221,7 @@ teams:
     #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     #url:  # Full URL
-    image: assets/teams/the_tech_titans/the_tech_titans_intro-350px.png # assets/project/
+    image: assets/teams/the_tech_titans/The_Tech_Titans.jpg # assets/project/
     #date: 03/2021 &ndash; Project Teams
     #title: COMING SOON!
     #summary: Data De-Sensitizer/Anonymizer

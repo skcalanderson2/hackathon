@@ -4,6 +4,9 @@ topmenu:
 - title: Home
   url: ""
 
+- title: Teams
+  url: "teams/"
+
 - title: Schedule
   url: "schedule/"
 
