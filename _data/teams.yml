@@ -79,6 +79,15 @@ teams:
           url: https://www.youtube.com/watch?v=FrbBJr6CAsw
           icon: "fab fa-youtube"
           iconcolor: "#ff0c05"  
+        - name: Github Repo
+          url: https://github.com/Lejohnnn/House-Of-Py
+          icon: "fab fa-github"
+          color: black
+          tag: github 
+        - name: Final Presentation
+          url: assets/teams/house_of_py/house_of_py_finalpresentation.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black"
     images:
         - name: Team Introduction
           imagelink: assets/teams/house_of_py/house_of_py_intro-350px.png
@@ -212,6 +221,18 @@ teams:
           url: https://www.youtube.com/watch?v=yL75mtNZ6PA
           icon: "fab fa-youtube"
           iconcolor: "#ff0c05"  
+        - name: Github Repo
+          url: https://github.com/NWA-Nerds-With-Attitudes/MS-CC-NWA-Vaccine-Code
+          icon: "fab fa-github"
+          color: black
+          tag: github 
+        - name: Final Presentation
+          url: assets/teams/the_nwa/NWA_FianlPresentation.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black" 
+
+
+          
     images:
         - name: Team Introduction
           imagelink: assets/teams/the_nwa/the_nwa_intro-350px.png
@@ -259,9 +280,6 @@ teams:
           url: assets/teams/the_tech_titans/ttFinalPResentation.pdf
           icon: "far fa-file-pdf"
           iconcolor: "black" 
-
-
-
     images:
         - name: Team Introduction
           imagelink: assets/teams/the_tech_titans/the_tech_titans_intro-350px.png
