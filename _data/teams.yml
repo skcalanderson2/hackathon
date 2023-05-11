@@ -45,9 +45,9 @@ teams:
         - name: Team Introduction
           imagelink: assets/teams/cyborgs/cyborgs_intro-350px.png
           url: assets/teams/cyborgs/cyborgs_intro.pdf
-        #- name: Final Presentation
-        #  imagelink: assets/teams/cyborgs/cyborgs_intro-350px.png
-        #  url: assets/teams/cyborgs/cyborgs_intro.pdf
+        - name: Final Presentation
+          imagelink: assets/teams/cyborgs/CYBORGS-img.png
+          url: assets/teams/cyborgs/CYBORGS.pdf
 
   - teamname: House of Py
     #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -95,9 +95,9 @@ teams:
         - name: Team Introduction
           imagelink: assets/teams/house_of_py/house_of_py_intro-350px.png
           url: assets/teams/house_of_py/house_of_py_intro.pdf
-        #- name: Final Presentation
-        #  imagelink: assets/teams/cyborgs/cyborgs_intro-350px.png
-        #  url: assets/teams/cyborgs/cyborgs_intro.pdf
+        - name: Final Presentation
+          imagelink: assets/teams/house_of_py/house_of_py_finalpresentation-img.png
+          url: assets/teams/house_of_py/house_of_py_finalpresentation.pdf
 
   - teamname: Team DRT Queens
     #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
