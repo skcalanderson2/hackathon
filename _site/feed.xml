@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/codeatms-cc23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/codeatms-cc23/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2023-05-11T11:38:24-05:00</updated><id>http://localhost:4000/codeatms-cc23/feed.xml</id><title type="html">Code@MS-CC23</title><subtitle>This page will serve as the event site for the Code@MS-CC23 Student Hackathon held May 9th - 10th, 2023 in Atlanta, GA at the 2023 Minority Serving - Cyberinfrastructure Consortium (MS-CC) Annual Meeting.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/codeatms-cc23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/codeatms-cc23/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2023-05-12T10:31:11-05:00</updated><id>http://localhost:4000/codeatms-cc23/feed.xml</id><title type="html">Code@MS-CC23</title><subtitle>This page will serve as the event site for the Code@MS-CC23 Student Hackathon held May 9th - 10th, 2023 in Atlanta, GA at the 2023 Minority Serving - Cyberinfrastructure Consortium (MS-CC) Annual Meeting.
 </subtitle><author><name>HackHPC</name></author><entry><title type="html">The NWA (Nerds With Attitudes)</title><link href="http://localhost:4000/codeatms-cc23/the_nwa/" rel="alternate" type="text/html" title="The NWA (Nerds With Attitudes)" /><published>2023-05-09T00:00:00-05:00</published><updated>2023-05-09T00:00:00-05:00</updated><id>http://localhost:4000/codeatms-cc23/the_nwa</id><content type="html" xml:base="http://localhost:4000/codeatms-cc23/the_nwa/"><![CDATA[<div>
 
     
@@ -314,6 +314,11 @@
             <a href="https://github.com/RaquelS04/VaccineEffectiveness"> Github Repo </a>
          </li>   
         
+        <li>
+            <a href="/codeatms-cc23/assets/teams/team_drt_queens/drt_queens_finalpresentation.pdf"><i class="far fa-file-pdf" style="color: black"></i> Final Presentation </a> 
+            
+         </li>   
+        
              
        </ul>  
     
@@ -328,7 +333,7 @@
     
    
 
-</div>]]></content><author><name>HackHPC</name></author><category term="Team" /><summary type="html"><![CDATA[Team Members: Dailyn Rollins - Information Technology FAMU (Florida Agricultural and Mechanical University) Raquel Shivers - Computer Science FAMU (Florida Agricultural and Mechanical University) Taylor Colbert - Links: Team Introduction Theme Song - Beyoncé - Diva Github Repo]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/codeatms-cc23/assets/teams/team_drt_queens/team_drt_queens_intro-350px.png" /><media:content medium="image" url="http://localhost:4000/codeatms-cc23/assets/teams/team_drt_queens/team_drt_queens_intro-350px.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Team HARP</title><link href="http://localhost:4000/codeatms-cc23/team_harp/" rel="alternate" type="text/html" title="Team HARP" /><published>2023-05-09T00:00:00-05:00</published><updated>2023-05-09T00:00:00-05:00</updated><id>http://localhost:4000/codeatms-cc23/team_harp</id><content type="html" xml:base="http://localhost:4000/codeatms-cc23/team_harp/"><![CDATA[<div>
+</div>]]></content><author><name>HackHPC</name></author><category term="Team" /><summary type="html"><![CDATA[Team Members: Dailyn Rollins - Information Technology FAMU (Florida Agricultural and Mechanical University) Raquel Shivers - Computer Science FAMU (Florida Agricultural and Mechanical University) Taylor Colbert - Links: Team Introduction Theme Song - Beyoncé - Diva Github Repo Final Presentation]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/codeatms-cc23/assets/teams/team_drt_queens/team_drt_queens_intro-350px.png" /><media:content medium="image" url="http://localhost:4000/codeatms-cc23/assets/teams/team_drt_queens/team_drt_queens_intro-350px.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Team HARP</title><link href="http://localhost:4000/codeatms-cc23/team_harp/" rel="alternate" type="text/html" title="Team HARP" /><published>2023-05-09T00:00:00-05:00</published><updated>2023-05-09T00:00:00-05:00</updated><id>http://localhost:4000/codeatms-cc23/team_harp</id><content type="html" xml:base="http://localhost:4000/codeatms-cc23/team_harp/"><![CDATA[<div>
 
     
    

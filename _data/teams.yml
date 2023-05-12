@@ -137,17 +137,17 @@ teams:
           icon: "fab fa-github"
           color: black
           tag: github 
-        #- name: Final Presentation
-        #  url: assets/teams/cyborgs/CYBORGS.pdf
-        #  icon: "far fa-file-pdf"
-        #  iconcolor: "black"  
+        - name: Final Presentation
+          url: assets/teams/team_drt_queens/drt_queens_finalpresentation.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black"  
     images:
         - name: Team Introduction
           imagelink: assets/teams/team_drt_queens/team_drt_queens_intro-350px.png
           url: assets/teams/team_drt_queens/team_drt_queens_intro.pdf
-        #- name: Final Presentation
-        #  imagelink: assets/teams/cyborgs/cyborgs_intro-350px.png
-        #  url: assets/teams/cyborgs/cyborgs_intro.pdf
+        - name: Final Presentation
+          imagelink: assets/teams/team_drt_queens/drt_queens_finalpresentation-img.png
+          url: assets/teams/team_drt_queens/drt_queens_finalpresentation.pdf
 
   - teamname: Team HARP
     #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
