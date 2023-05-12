@@ -1,38 +1,63 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/codeatms-cc23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/codeatms-cc23/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2023-05-12T10:31:11-05:00</updated><id>http://localhost:4000/codeatms-cc23/feed.xml</id><title type="html">Code@MS-CC23</title><subtitle>This page will serve as the event site for the Code@MS-CC23 Student Hackathon held May 9th - 10th, 2023 in Atlanta, GA at the 2023 Minority Serving - Cyberinfrastructure Consortium (MS-CC) Annual Meeting.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/codeatms-cc23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/codeatms-cc23/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2023-05-12T10:46:28-05:00</updated><id>http://localhost:4000/codeatms-cc23/feed.xml</id><title type="html">Code@MS-CC23</title><subtitle>This page will serve as the event site for the Code@MS-CC23 Student Hackathon held May 9th - 10th, 2023 in Atlanta, GA at the 2023 Minority Serving - Cyberinfrastructure Consortium (MS-CC) Annual Meeting.
 </subtitle><author><name>HackHPC</name></author><entry><title type="html">The NWA (Nerds With Attitudes)</title><link href="http://localhost:4000/codeatms-cc23/the_nwa/" rel="alternate" type="text/html" title="The NWA (Nerds With Attitudes)" /><published>2023-05-09T00:00:00-05:00</published><updated>2023-05-09T00:00:00-05:00</updated><id>http://localhost:4000/codeatms-cc23/the_nwa</id><content type="html" xml:base="http://localhost:4000/codeatms-cc23/the_nwa/"><![CDATA[<div>
 
     
-   
 
     
-   
 
     
-   
 
     
-   
 
     
     
+    
+     <table>
+    
+  
+    <tr style="border-bottom: 2px solid darkgrey;">
+      <td style="vertical-align: top;">
+        <img src="/codeatms-cc23/assets/teams/the_nwa/The_NWA.png" width="300px" />
+
+        <br />
+        
+        
+        Team Introduction
+        
+        <a href="/codeatms-cc23/assets/teams/the_nwa/the_nwa_intro.pdf"><img src="/codeatms-cc23/assets/teams/the_nwa/the_nwa_intro-350px.png" width="300px" /></a>
+        
+        <br />
+        
+        
+        Final Presentation
+        
+        <a href="/codeatms-cc23/assets/teams/the_nwa/NWA_FianlPresentation.pdf"><img src="/codeatms-cc23/assets/teams/the_nwa/NWA_FianlPresentation-img.png" width="300px" /></a>
+        
+        <br />
+        
+
+
+      </td>
+     <td> 
     
     <h2> Team Members: </h2>
+   
     <ul>
     
         
             <li><strong>Aaliyah Lockett</strong> - <em>Computer Science</em>  <br />Albany State University <br />
             </li>
         
-            <li><strong>Tyler Mills</strong> - <em>Computer Engineering</em>  <br />Claflin University <br />
+            <li><strong>Tyler Mills</strong> - <em>Computer Science</em>  <br />Albany State University <br />
             </li>
         
             <li><strong>Jadrien Huell</strong> - <em>Computer Engineering</em>  <br />Claflin University <br />
             </li>
         
-            <li><strong>Javian Huell</strong> - <em>Computer Science</em>  <br />FAMU (Florida Agricultural and Mechanical University) <br />
+            <li><strong>Javian Huell</strong> - <em>Computer Engineering</em>  <br />Claflin University <br />
             </li>
         
-            <li><strong>Terrel Brown</strong> - <em></em>  <br /> <br />
+            <li><strong>Terrel Brown</strong> - <em>Computer Science</em>  <br />FAMU (Florida Agricultural and Mechanical University) <br />
             </li>
         
              
@@ -61,21 +86,51 @@
         
              
        </ul>  
-    
-   
+  </td>
+</tr>
+<tr> </tr> 
+
 
     
-   
 
-</div>]]></content><author><name>HackHPC</name></author><category term="Team" /><summary type="html"><![CDATA[Team Members: Aaliyah Lockett - Computer Science Albany State University Tyler Mills - Computer Engineering Claflin University Jadrien Huell - Computer Engineering Claflin University Javian Huell - Computer Science FAMU (Florida Agricultural and Mechanical University) Terrel Brown - Links: Team Introduction Theme Song - Team Titans Github Repo Final Presentation]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/codeatms-cc23/assets/teams/the_nwa/the_nwa_intro-350px.png" /><media:content medium="image" url="http://localhost:4000/codeatms-cc23/assets/teams/the_nwa/the_nwa_intro-350px.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">House of Py</title><link href="http://localhost:4000/codeatms-cc23/house_of_py/" rel="alternate" type="text/html" title="House of Py" /><published>2023-05-09T00:00:00-05:00</published><updated>2023-05-09T00:00:00-05:00</updated><id>http://localhost:4000/codeatms-cc23/house_of_py</id><content type="html" xml:base="http://localhost:4000/codeatms-cc23/house_of_py/"><![CDATA[<div>
 
-    
-   
+</table>
+</div>]]></content><author><name>HackHPC</name></author><category term="Team" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/codeatms-cc23/assets/teams/the_nwa/the_nwa_intro-350px.png" /><media:content medium="image" url="http://localhost:4000/codeatms-cc23/assets/teams/the_nwa/the_nwa_intro-350px.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">House of Py</title><link href="http://localhost:4000/codeatms-cc23/house_of_py/" rel="alternate" type="text/html" title="House of Py" /><published>2023-05-09T00:00:00-05:00</published><updated>2023-05-09T00:00:00-05:00</updated><id>http://localhost:4000/codeatms-cc23/house_of_py</id><content type="html" xml:base="http://localhost:4000/codeatms-cc23/house_of_py/"><![CDATA[<div>
 
     
+
     
+    
+     <table>
+    
+  
+    <tr style="border-bottom: 2px solid darkgrey;">
+      <td style="vertical-align: top;">
+        <img src="/codeatms-cc23/assets/teams/house_of_py/House_of_Py.png" width="300px" />
+
+        <br />
+        
+        
+        Team Introduction
+        
+        <a href="/codeatms-cc23/assets/teams/house_of_py/house_of_py_intro.pdf"><img src="/codeatms-cc23/assets/teams/house_of_py/house_of_py_intro-350px.png" width="300px" /></a>
+        
+        <br />
+        
+        
+        Final Presentation
+        
+        <a href="/codeatms-cc23/assets/teams/house_of_py/house_of_py_finalpresentation.pdf"><img src="/codeatms-cc23/assets/teams/house_of_py/house_of_py_finalpresentation-img.png" width="300px" /></a>
+        
+        <br />
+        
+
+
+      </td>
+     <td> 
     
     <h2> Team Members: </h2>
+   
     <ul>
     
         
@@ -85,13 +140,13 @@
             <li><strong>Charlize Bey</strong> - <em>Computer Science</em>  <br />FAMU (Florida Agricultural and Mechanical University) <br />
             </li>
         
-            <li><strong>Danielle Devose</strong> - <em>Information Technology</em>  <br />FAMU (Florida Agricultural and Mechanical University) <br />
+            <li><strong>Danielle Devose</strong> - <em>Computer Science</em>  <br />FAMU (Florida Agricultural and Mechanical University) <br />
             </li>
         
-            <li><strong>Lejohn Thomas</strong> - <em>Computer Information Systems</em>  <br />FAMU (Florida Agricultural and Mechanical University) <br />
+            <li><strong>Lejohn Thomas</strong> - <em>Information Technology</em>  <br />FAMU (Florida Agricultural and Mechanical University) <br />
             </li>
         
-            <li><strong>Taylor Sharperson</strong> - <em></em>  <br /> <br />
+            <li><strong>Taylor Sharperson</strong> - <em>Computer Information Systems</em>  <br />FAMU (Florida Agricultural and Mechanical University) <br />
             </li>
         
              
@@ -120,27 +175,54 @@
         
              
        </ul>  
-    
-   
+  </td>
+</tr>
+<tr> </tr> 
+
 
     
-   
 
     
-   
 
     
-   
 
     
-   
 
-</div>]]></content><author><name>HackHPC</name></author><category term="Team" /><summary type="html"><![CDATA[Team Members: Bryce Alexander - Computer Science FAMU (Florida Agricultural and Mechanical University) Charlize Bey - Computer Science FAMU (Florida Agricultural and Mechanical University) Danielle Devose - Information Technology FAMU (Florida Agricultural and Mechanical University) Lejohn Thomas - Computer Information Systems FAMU (Florida Agricultural and Mechanical University) Taylor Sharperson - Links: Team Introduction Theme Song - Nardo Wick - Who Want Smoke?? Github Repo Final Presentation]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/codeatms-cc23/assets/teams/house_of_py/house_of_py_intro-350px.png" /><media:content medium="image" url="http://localhost:4000/codeatms-cc23/assets/teams/house_of_py/house_of_py_intro-350px.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cyborgs</title><link href="http://localhost:4000/codeatms-cc23/cyborgs/" rel="alternate" type="text/html" title="Cyborgs" /><published>2023-05-09T00:00:00-05:00</published><updated>2023-05-09T00:00:00-05:00</updated><id>http://localhost:4000/codeatms-cc23/cyborgs</id><content type="html" xml:base="http://localhost:4000/codeatms-cc23/cyborgs/"><![CDATA[<div>
+
+</table>
+</div>]]></content><author><name>HackHPC</name></author><category term="Team" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/codeatms-cc23/assets/teams/house_of_py/house_of_py_intro-350px.png" /><media:content medium="image" url="http://localhost:4000/codeatms-cc23/assets/teams/house_of_py/house_of_py_intro-350px.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cyborgs</title><link href="http://localhost:4000/codeatms-cc23/cyborgs/" rel="alternate" type="text/html" title="Cyborgs" /><published>2023-05-09T00:00:00-05:00</published><updated>2023-05-09T00:00:00-05:00</updated><id>http://localhost:4000/codeatms-cc23/cyborgs</id><content type="html" xml:base="http://localhost:4000/codeatms-cc23/cyborgs/"><![CDATA[<div>
 
     
+     <table>
     
+  
+    <tr style="border-bottom: 2px solid darkgrey;">
+      <td style="vertical-align: top;">
+        <img src="/codeatms-cc23/assets/teams/cyborgs/Cyborgs.jpg" width="300px" />
+
+        <br />
+        
+        
+        Team Introduction
+        
+        <a href="/codeatms-cc23/assets/teams/cyborgs/cyborgs_intro.pdf"><img src="/codeatms-cc23/assets/teams/cyborgs/cyborgs_intro-350px.png" width="300px" /></a>
+        
+        <br />
+        
+        
+        Final Presentation
+        
+        <a href="/codeatms-cc23/assets/teams/cyborgs/CYBORGS.pdf"><img src="/codeatms-cc23/assets/teams/cyborgs/CYBORGS-img.png" width="300px" /></a>
+        
+        <br />
+        
+
+
+      </td>
+     <td> 
     
     <h2> Team Members: </h2>
+   
     <ul>
     
         
@@ -185,61 +267,82 @@
         
              
        </ul>  
-    
-   
+  </td>
+</tr>
+<tr> </tr> 
+
 
     
-   
 
     
-   
 
     
-   
 
     
-   
 
     
-   
 
-</div>]]></content><author><name>HackHPC</name></author><category term="Team" /><summary type="html"><![CDATA[Team Members: Oluwatosin Oyekeye - Computer Science Alabama State University Maya Ody-Ajike - Computer Science Fisk University Oluwalayomi Fadero - Computer Science and Mathametics Fisk University Oluwanifemi Fadero - Computer Science Fisk University Terrance Jim - IT Technician Navajo Technical University Links: Team Introduction Theme Song - Cristale x Teezandos - Plugged In w/ Fumez The Engineer Github Repo Final Presentation]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/codeatms-cc23/assets/teams/cyborgs/cyborgs_intro-350px.png" /><media:content medium="image" url="http://localhost:4000/codeatms-cc23/assets/teams/cyborgs/cyborgs_intro-350px.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Tech Titans</title><link href="http://localhost:4000/codeatms-cc23/the_tech_titans/" rel="alternate" type="text/html" title="The Tech Titans" /><published>2023-05-09T00:00:00-05:00</published><updated>2023-05-09T00:00:00-05:00</updated><id>http://localhost:4000/codeatms-cc23/the_tech_titans</id><content type="html" xml:base="http://localhost:4000/codeatms-cc23/the_tech_titans/"><![CDATA[<div>
 
-    
-   
+</table>
+</div>]]></content><author><name>HackHPC</name></author><category term="Team" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/codeatms-cc23/assets/teams/cyborgs/cyborgs_intro-350px.png" /><media:content medium="image" url="http://localhost:4000/codeatms-cc23/assets/teams/cyborgs/cyborgs_intro-350px.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Tech Titans</title><link href="http://localhost:4000/codeatms-cc23/the_tech_titans/" rel="alternate" type="text/html" title="The Tech Titans" /><published>2023-05-09T00:00:00-05:00</published><updated>2023-05-09T00:00:00-05:00</updated><id>http://localhost:4000/codeatms-cc23/the_tech_titans</id><content type="html" xml:base="http://localhost:4000/codeatms-cc23/the_tech_titans/"><![CDATA[<div>
 
     
-   
 
     
-   
 
     
-   
 
     
-   
 
     
+
     
+        <table>
+    
+  
+    <tr style="border-bottom: 2px solid darkgrey;">
+      <td style="vertical-align: top;">
+        <img src="/codeatms-cc23/assets/teams/the_tech_titans/The_Tech_Titans.jpg" width="300px" />
+
+        <br />
+        
+        
+        Team Introduction
+        
+        <a href="/codeatms-cc23/assets/teams/the_tech_titans/the_tech_titans_intro.pdf"><img src="/codeatms-cc23/assets/teams/the_tech_titans/the_tech_titans_intro-350px.png" width="300px" /></a>
+        
+        <br />
+        
+        
+        Final Presentation
+        
+        <a href="/codeatms-cc23/assets/teams/the_tech_titans/ttFinalPResentation.pdf"><img src="/codeatms-cc23/assets/teams/the_tech_titans/ttFinalPResentation-img.png" width="300px" /></a>
+        
+        <br />
+        
+
+
+      </td>
+     <td> 
     
     <h2> Team Members: </h2>
+   
     <ul>
     
         
-            <li><strong>Javaughn George</strong> - <em>N/A</em>  <br />Claflin University <br />
+            <li><strong>Javaughn George</strong> - <em>Computer Science</em>  <br />Alabama State University <br />
             </li>
         
-            <li><strong>Amrinder Singh</strong> - <em>Computer Science</em>  <br />Claflin University <br />
+            <li><strong>Amrinder Singh</strong> - <em>N/A</em>  <br />Claflin University <br />
             </li>
         
-            <li><strong>Ricardo Barnes</strong> - <em>Computer</em>  <br />Claflin University <br />
+            <li><strong>Ricardo Barnes</strong> - <em>Computer Science</em>  <br />Claflin University <br />
             </li>
         
-            <li><strong>Spundun Gusain</strong> - <em>N/A</em>  <br />Claflin University <br />
+            <li><strong>Spundun Gusain</strong> - <em>Computer</em>  <br />Claflin University <br />
             </li>
         
-            <li><strong>Subash Neupane</strong> - <em></em>  <br /> <br />
+            <li><strong>Subash Neupane</strong> - <em>N/A</em>  <br />Claflin University <br />
             </li>
         
              
@@ -268,31 +371,60 @@
         
              
        </ul>  
-    
-   
+  </td>
+</tr>
+<tr> </tr> 
 
-</div>]]></content><author><name>HackHPC</name></author><category term="Team" /><summary type="html"><![CDATA[Team Members: Javaughn George - N/A Claflin University Amrinder Singh - Computer Science Claflin University Ricardo Barnes - Computer Claflin University Spundun Gusain - N/A Claflin University Subash Neupane - Links: Team Introduction Theme Song - Remember The Name - Fort Minor Github Repo Final Presentation]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/codeatms-cc23/assets/teams/the_tech_titans/the_tech_titans_intro-350px.png" /><media:content medium="image" url="http://localhost:4000/codeatms-cc23/assets/teams/the_tech_titans/the_tech_titans_intro-350px.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Team DRT Queens</title><link href="http://localhost:4000/codeatms-cc23/team_drt_queens/" rel="alternate" type="text/html" title="Team DRT Queens" /><published>2023-05-09T00:00:00-05:00</published><updated>2023-05-09T00:00:00-05:00</updated><id>http://localhost:4000/codeatms-cc23/team_drt_queens</id><content type="html" xml:base="http://localhost:4000/codeatms-cc23/team_drt_queens/"><![CDATA[<div>
 
-    
-   
 
-    
-   
+</table>
+</div>]]></content><author><name>HackHPC</name></author><category term="Team" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/codeatms-cc23/assets/teams/the_tech_titans/the_tech_titans_intro-350px.png" /><media:content medium="image" url="http://localhost:4000/codeatms-cc23/assets/teams/the_tech_titans/the_tech_titans_intro-350px.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Team DRT Queens</title><link href="http://localhost:4000/codeatms-cc23/team_drt_queens/" rel="alternate" type="text/html" title="Team DRT Queens" /><published>2023-05-09T00:00:00-05:00</published><updated>2023-05-09T00:00:00-05:00</updated><id>http://localhost:4000/codeatms-cc23/team_drt_queens</id><content type="html" xml:base="http://localhost:4000/codeatms-cc23/team_drt_queens/"><![CDATA[<div>
 
     
+
     
+
+    
+     <table>
+    
+  
+    <tr style="border-bottom: 2px solid darkgrey;">
+      <td style="vertical-align: top;">
+        <img src="/codeatms-cc23/assets/teams/team_drt_queens/Team_DRT_Queens.png" width="300px" />
+
+        <br />
+        
+        
+        Team Introduction
+        
+        <a href="/codeatms-cc23/assets/teams/team_drt_queens/team_drt_queens_intro.pdf"><img src="/codeatms-cc23/assets/teams/team_drt_queens/team_drt_queens_intro-350px.png" width="300px" /></a>
+        
+        <br />
+        
+        
+        Final Presentation
+        
+        <a href="/codeatms-cc23/assets/teams/team_drt_queens/drt_queens_finalpresentation.pdf"><img src="/codeatms-cc23/assets/teams/team_drt_queens/drt_queens_finalpresentation-img.png" width="300px" /></a>
+        
+        <br />
+        
+
+
+      </td>
+     <td> 
     
     <h2> Team Members: </h2>
+   
     <ul>
     
         
-            <li><strong>Dailyn Rollins</strong> - <em>Information Technology</em>  <br />FAMU (Florida Agricultural and Mechanical University) <br />
+            <li><strong>Dailyn Rollins</strong> - <em>Computer Science</em>  <br />FAMU (Florida Agricultural and Mechanical University) <br />
             </li>
         
-            <li><strong>Raquel Shivers</strong> - <em>Computer Science</em>  <br />FAMU (Florida Agricultural and Mechanical University) <br />
+            <li><strong>Raquel Shivers</strong> - <em>Information Technology</em>  <br />FAMU (Florida Agricultural and Mechanical University) <br />
             </li>
         
-            <li><strong>Taylor Colbert</strong> - <em></em>  <br /> <br />
+            <li><strong>Taylor Colbert</strong> - <em>Computer Science</em>  <br />FAMU (Florida Agricultural and Mechanical University) <br />
             </li>
         
              
@@ -321,33 +453,59 @@
         
              
        </ul>  
-    
-   
+  </td>
+</tr>
+<tr> </tr> 
+
 
     
-   
 
     
-   
 
     
-   
 
-</div>]]></content><author><name>HackHPC</name></author><category term="Team" /><summary type="html"><![CDATA[Team Members: Dailyn Rollins - Information Technology FAMU (Florida Agricultural and Mechanical University) Raquel Shivers - Computer Science FAMU (Florida Agricultural and Mechanical University) Taylor Colbert - Links: Team Introduction Theme Song - Beyoncé - Diva Github Repo Final Presentation]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/codeatms-cc23/assets/teams/team_drt_queens/team_drt_queens_intro-350px.png" /><media:content medium="image" url="http://localhost:4000/codeatms-cc23/assets/teams/team_drt_queens/team_drt_queens_intro-350px.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Team HARP</title><link href="http://localhost:4000/codeatms-cc23/team_harp/" rel="alternate" type="text/html" title="Team HARP" /><published>2023-05-09T00:00:00-05:00</published><updated>2023-05-09T00:00:00-05:00</updated><id>http://localhost:4000/codeatms-cc23/team_harp</id><content type="html" xml:base="http://localhost:4000/codeatms-cc23/team_harp/"><![CDATA[<div>
 
-    
-   
+</table>
+</div>]]></content><author><name>HackHPC</name></author><category term="Team" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/codeatms-cc23/assets/teams/team_drt_queens/team_drt_queens_intro-350px.png" /><media:content medium="image" url="http://localhost:4000/codeatms-cc23/assets/teams/team_drt_queens/team_drt_queens_intro-350px.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Team HARP</title><link href="http://localhost:4000/codeatms-cc23/team_harp/" rel="alternate" type="text/html" title="Team HARP" /><published>2023-05-09T00:00:00-05:00</published><updated>2023-05-09T00:00:00-05:00</updated><id>http://localhost:4000/codeatms-cc23/team_harp</id><content type="html" xml:base="http://localhost:4000/codeatms-cc23/team_harp/"><![CDATA[<div>
 
     
-   
 
     
-   
+
+    
 
     
     
+     <table>
+    
+  
+    <tr style="border-bottom: 2px solid darkgrey;">
+      <td style="vertical-align: top;">
+        <img src="/codeatms-cc23/assets/teams/team_harp/Team_HARP.jpg" width="300px" />
+
+        <br />
+        
+        
+        Team Introduction
+        
+        <a href="/codeatms-cc23/assets/teams/team_harp/team_harp_intro.pdf"><img src="/codeatms-cc23/assets/teams/team_harp/team_harp_intro-350px.png" width="300px" /></a>
+        
+        <br />
+        
+        
+        Final Presentation
+        
+        <a href="/codeatms-cc23/assets/teams/team_harp/Team_HARP.pdf"><img src="/codeatms-cc23/assets/teams/team_harp/Team_HARP-img.png" width="300px" /></a>
+        
+        <br />
+        
+
+
+      </td>
+     <td> 
     
     <h2> Team Members: </h2>
+   
     <ul>
     
         
@@ -360,7 +518,7 @@
             <li><strong>Pratyush Khanal</strong> - <em>Computer Science</em>  <br />Fisk University <br />
             </li>
         
-            <li><strong>Rejin Nepal</strong> - <em></em>  <br /> <br />
+            <li><strong>Rejin Nepal</strong> - <em>Computer Science</em>  <br />Fisk University <br />
             </li>
         
              
@@ -389,16 +547,18 @@
         
              
        </ul>  
-    
-   
+  </td>
+</tr>
+<tr> </tr> 
+
 
     
-   
 
     
-   
 
-</div>]]></content><author><name>HackHPC</name></author><category term="Team" /><summary type="html"><![CDATA[Team Members: Aayush Bhatta - Computer Science Fisk University Henry Alumona - Computer Science Fisk University Pratyush Khanal - Computer Science Fisk University Rejin Nepal - Links: Team Introduction Theme Song - Teen Titans Github Repo Final Presentation]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/codeatms-cc23/assets/teams/team_harp/team_harp_intro-350px.png" /><media:content medium="image" url="http://localhost:4000/codeatms-cc23/assets/teams/team_harp/team_harp_intro-350px.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Schedule</title><link href="http://localhost:4000/codeatms-cc23/schedule/" rel="alternate" type="text/html" title="Schedule" /><published>2023-05-08T00:00:00-05:00</published><updated>2023-05-08T00:00:00-05:00</updated><id>http://localhost:4000/codeatms-cc23/schedule</id><content type="html" xml:base="http://localhost:4000/codeatms-cc23/schedule/"><![CDATA[<p>
+
+</table>
+</div>]]></content><author><name>HackHPC</name></author><category term="Team" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/codeatms-cc23/assets/teams/team_harp/team_harp_intro-350px.png" /><media:content medium="image" url="http://localhost:4000/codeatms-cc23/assets/teams/team_harp/team_harp_intro-350px.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Schedule</title><link href="http://localhost:4000/codeatms-cc23/schedule/" rel="alternate" type="text/html" title="Schedule" /><published>2023-05-08T00:00:00-05:00</published><updated>2023-05-08T00:00:00-05:00</updated><id>http://localhost:4000/codeatms-cc23/schedule</id><content type="html" xml:base="http://localhost:4000/codeatms-cc23/schedule/"><![CDATA[<p>
   <strong style="font-size:1.5vw;">Tuesday, May 9, 2023 
      12pm  
     - 4pm 
