@@ -8,8 +8,8 @@ description: >
 email: schack@hackhcp.org
 timezone: EST #UTC
 
-baseurl: "/codeatms-cc23" # the subpath of your site, e.g. /blog
-url: "https://hackhpc.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "/hackathon" # the subpath of your site, e.g. /blog
+url: "https://skcalanderson2.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 #baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
