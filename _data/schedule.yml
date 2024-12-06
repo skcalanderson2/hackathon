@@ -34,7 +34,7 @@ general_schedule:
             url: "assets/Slide_Decks/day_1/MS-CC-Day_1.pdf"
           - title: Code
             #icon
-            url: "https://github.com/HackHPC/codeatms-cc23/blob/main/assets/Slide_Decks/day_1/Task1.ipynb"
+            url: "https://github.com/HackHPC/hackathon/blob/main/assets/Slide_Decks/day_1/Task1.ipynb"
      
 
 
@@ -60,10 +60,10 @@ general_schedule:
             url: "assets/Slide_Decks/day_1/CODEatMS-CC_FullDeck.pdf"
           - title: Code
             #icon
-            url: "https://github.com/HackHPC/codeatms-cc23/blob/main/assets/Slide_Decks/day_1/SIR-Model-2022.ipynb"
+            url: "https://github.com/HackHPC/hackathon/blob/main/assets/Slide_Decks/day_1/SIR-Model-2022.ipynb"
           - title: Hand Coded Joe (That Jerk)
             #icon
-            url: "https://github.com/HackHPC/codeatms-cc23/blob/main/assets/Slide_Decks/day_1/joe.ipynb"
+            url: "https://github.com/HackHPC/hackathon/blob/main/assets/Slide_Decks/day_1/joe.ipynb"
       - name: Person/Population/Community Objects
       - name: Adding Mitigation Parameters 
       - name: Hackathon Starts
